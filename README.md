@@ -2,7 +2,7 @@
 
 ![Clean Sky Template](/readme-images/clean-sky-title.jpg)
 
-**Clean Sky** is a free, beautiful, multi-page template made with Bootstrap 4. It is suitable for all projects - from business websites to personal blogs. The template consists of over 15 fully responsive pages, each one carefully coded and with a clean design. [You can see a live demo here &raquo;](https://epicbootstrap.com/templates/clean-sky#index)
+**Clean Sky** is a free, beautiful, multi-page template made with Bootstrap 4. It is suitable for all projects - from business websites to personal blogs. The template consists of over 15 fully responsive pages, each one carefully coded and with a clean design. [You can Get it in Bootstrap Studio &raquo;](https://bootstrapstudio.io/)
 
 ## Features
 
